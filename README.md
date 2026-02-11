@@ -1,17 +1,18 @@
-🛍️ Customer Shopping Behavior Analysis
-📌 Project Overview
+##🛍️ Customer Shopping Behavior Analysis
+##📌 Project Overview
 
 This project analyzes customer shopping behavior data to identify purchasing patterns, trends, and business insights.
 
 The analysis combines Python-based data exploration and an independently designed Power BI dashboard to support data-driven decision-making.
 
-📊 Dashboard Preview
+##📊 Dashboard Preview
 
 Customer Shopping Behavior Dashboard
 
-(Dashboard designed and developed as part of this project. Screenshot can be added here.)
+<img width="989" height="542" alt="customer_shopping_analysis" src="https://github.com/user-attachments/assets/f93ea598-e2ab-46cb-9091-7cc42fcd2fa0" />
 
-🗂️ Project Files
+
+##🗂️ Project Files
 
 📓 customer_shopping_behavior_analysis.ipynb → Python data analysis & EDA
 
@@ -23,7 +24,7 @@ Customer Shopping Behavior Dashboard
 
 📘 README.md → Project documentation
 
-🛠️ Tools & Technologies Used
+##🛠️ Tools & Technologies Used
 
 🐍 Python (Pandas, NumPy) – Data cleaning & preprocessing
 
@@ -35,7 +36,8 @@ Customer Shopping Behavior Dashboard
 
 🔗 Git & GitHub – Version control & project hosting
 
-🔄 Project Workflow (End-to-End)
+##🔄 Project Workflow (End-to-End)
+
 1️⃣ Business Understanding
 
 Defined the business problem
@@ -80,7 +82,7 @@ Uploaded repository
 
 Documented the project professionally
 
-📈 Key Insights
+##📈 Key Insights
 
 Certain product categories generate higher revenue and sales volume
 
@@ -90,7 +92,7 @@ Age groups contribute differently to revenue
 
 Average purchase value indicates moderate spending patterns
 
-🎯 Use Cases
+##🎯 Use Cases
 
 Data Analyst portfolio project
 
@@ -100,7 +102,7 @@ Interview discussion project
 
 End-to-end analytics demonstration
 
-🚀 How to Use
+##🚀 How to Use
 
 Clone or download the repository
 
@@ -110,7 +112,7 @@ Open the .pbix file in Power BI Desktop
 
 Explore filters and visuals to analyze insights
 
-👤 Author
+##👤 Author
 
 Tamil Selvam
 
